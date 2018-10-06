@@ -1,0 +1,31 @@
+.home{
+   position: relative;
+   min-height: 90vh;
+   background-image: url("../img/background.jpg");
+   background-position: center;
+   background-size: cover;
+}
+.heading{
+   position: absolute;
+   top: 40%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   color: gold;
+}
+.sub-heading{
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+}
+.footer{
+   background-color: midnightblue;
+   color: #fff;
+   height: 50px;
+}
+.footer a{
+   color: red;
+}
+.footer span{
+   color: #ff0077;
+}
